@@ -31,9 +31,5 @@ $navigation = (isset($_GET['navigation']) && $_GET['navigation'] != '') ? $_GET[
         }
     ?>
       </div>
-
-      <div class="footer">
-        <h2>Footer</h2>
-      </div>
     </body>
 </html>
